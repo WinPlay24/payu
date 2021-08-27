@@ -1,7 +1,7 @@
 <?php
 
-$MERCHANT_KEY = "";
-$SALT = "";
+$MERCHANT_KEY = "L0r5Si";
+$SALT = "ceMBKe8hVlrrIBb6ZF3EB1ALwKRBxgUP";
 // Merchant Key and Salt as provided by Payu.
 
 $PAYU_BASE_URL = "https://sandboxsecure.payu.in";		// For Sandbox Mode
